@@ -31,7 +31,8 @@ twitter_username: fklsdfjsfa
 facebook_username: fksdfaflsk
 instagram_username: fklasdfs
 youtube_username: fkdlsfkdf
-disqus.shortname: crusty-object
+disqus:
+  shortname: crusty-object
 
 # Build settings
 # Removed minima theme, using regular theme
